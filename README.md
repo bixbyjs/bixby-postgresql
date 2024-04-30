@@ -1,10 +1,4 @@
-# bixby-redis
-
-A suite of components for [Node.js](https://nodejs.org/) applications that use
-[Redis](https://redis.io/).
-
-
-$ ./redis-server
+# bixby-postgresql
 
 ## License
 
