@@ -11,7 +11,7 @@ describe('bixby-postgresql', function() {
     it('should have component metadata', function() {
       expect(json.namespace).to.equal('opt/postgresql');
       expect(json.components).to.have.length(1);
-      expect(json.components).to.include('service');
+      expect(json.components).to.include('main');
     });
   });
   
